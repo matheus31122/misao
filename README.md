@@ -1,0 +1,2 @@
+# misao
+missao-IA-main
